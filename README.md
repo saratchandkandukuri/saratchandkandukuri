@@ -1,6 +1,16 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarat Chand Kandukuri 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarat Chand Kandukuri=============================================================================================================================================Software Developer------------------I am a software developer who loved object oriented programming* 🌍  I'm based in Mendig, Germany* ✉️  You can contact me at [saratchand.kandukuri@gmail.com](mailto:saratchand.kandukuri@gmail.com)* 🧠  I'm learning Coding Challenges* 🤝  I'm open to collaborating on Projects
+Software Developer
+
+I am a software developer who loves object oriented programming*
+
+🌍  I'm based in Mendig, Germany*
+
+✉️  You can contact me at [saratchand.kandukuri@gmail.com](mailto:saratchand.kandukuri@gmail.com)* 
+
+🧠  I'm learning Coding Challenges* 
+
+🤝  I'm open to collaborating on Projects
 
 ### Skills
 
